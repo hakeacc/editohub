@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /llms.txt
+
+User-agent: OAI-SearchBot
+Allow: /llms.txt
+
+User-agent: ChatGPT-User
+Allow: /llms.txt
+
+User-agent: anthropic-ai
+Allow: /llms.txt
+
+User-agent: PerplexityBot
+Allow: /llms.txt
+
+Sitemap: https://editohub.in/sitemap.xml
